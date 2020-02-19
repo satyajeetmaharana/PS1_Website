@@ -1,1 +1,1 @@
-typeSearchIndex = [{"p":"com.satyajeet.addressbook","l":"AddressBook"},{"l":"All Classes","url":"allclasses-index.html"}]
+typeSearchIndex = [{"p":"com.satyajeet.addressbook","l":"AddressBook"},{"p":"com.satyajeet.addressbook","l":"AddressBook.AddressBookEntry"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.satyajeet.addressbook","l":"AddressBook.AddressBookEntry.PostalAddress"}]
